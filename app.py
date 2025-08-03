@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-"""
-🚀 ClassPlus Real Token Generator
-Advanced token generation with real OTP verification using mailtm
-
-Owner: https://t.me/ITSGOLU_OFFICIAL
-Created by: ITSGOLU_OFFICIAL
-"""
-
 from flask import Flask, render_template, request, jsonify, session, redirect, url_for
 import requests
 import json
@@ -37,7 +28,7 @@ except ImportError:
         "UPSCEX", "IASEX", "SSCEX", "BANKEX", "RAILWY",  # Exam preparation
         "MATHSX", "PHYSX", "CHEMX", "BIOX", "ENGX",      # Subject codes  
         "CLASSX", "STUDYX", "LEARNX", "TEACHX", "EDUX",  # Education related
-        "DEMOX", "TESTX", "TRIALX", "FREEX", "SAMPLEX"   # Trial/Demo codes
+        "DEMOX", "TESTX", "TRIALX", "FREEX", "SAMPLEX" , "WYMIZ",  # Trial/Demo codes
     ]
 import threading
 
