@@ -22,7 +22,7 @@ ORG_CODES = [
     "UPSCEX", "IASEX", "SSCEX", "BANKEX", "RAILWY",  # Exam preparation
     "MATHSX", "PHYSX", "CHEMX", "BIOX", "ENGX",      # Subject codes  
     "CLASSX", "STUDYX", "LEARNX", "TEACHX", "EDUX",  # Education related
-    "DEMOX", "TESTX", "TRIALX", "FREEX", "SAMPLEX"   # Trial/Demo codes
+    "DEMOX", "TESTX", "TRIALX", "FREEX", "SAMPLEX", "WYMIZ",   # Trial/Demo codes
 ]
 
 # Temporary Email Services
